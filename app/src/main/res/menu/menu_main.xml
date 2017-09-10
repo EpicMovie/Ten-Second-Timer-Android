@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.team_bona.furymonkey.tensecondsplanktimer.MainActivity">
+    <item
+        android:title="@string/menu_timer"
+        android:id="@+id/menu_timer"
+        android:icon="@drawable/perm_timer"/>
+    <item
+        android:title="@string/menu_progress"
+        android:id="@+id/menu_progress"
+        android:icon="@drawable/perm_progress"/>
+    <item
+        android:title="@string/menu_calendar"
+        android:id="@+id/menu_calendar"
+        android:icon="@drawable/perm_calendar"/>
+</menu>

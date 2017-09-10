@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">10초 플랭크</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="timer_custom_picker_upper_arrow"><![CDATA["▲"]]></string>
+    <string name="timer_custom_picker_lower_arrow"><![CDATA["▼"]]></string>
+    <string name="timer_continue">이어서 하기</string>
+    <string name="timer_continue_bottom">옆으로 밀어서 그만하기 <![CDATA["▶"]]></string>
+    <string name="timer_dialog_complete">바 로 시 작</string>
+    <string name="temp">25s</string>
+    <string name="menu_timer">스톱워치</string>
+    <string name="menu_progress">정지</string>
+    <string name="menu_calendar">나의 성취</string>
+    <string name="bun"> 분</string>
+    <string name="cho"> 초</string>
+    <string name="calendar_prev"><![CDATA["◀"]]></string>
+    <string name="calendar_next"><![CDATA["▶"]]></string>
+</resources>
